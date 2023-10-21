@@ -1,0 +1,24 @@
+.rightmenu{
+	width: 200px;
+	padding: 00px;
+
+    background-color: #4011e9;
+}
+
+.rightmenu-button{
+    padding: 5px;
+    border-radius: 500px;
+    text-align: right;
+    transition: ease 0.25 all;
+
+}
+
+.rightmenu-button:hover{
+
+    background-color: rgba(82, 19, 19, 0.1);
+}
+
+.rightmenu-button span{
+    padding-left: 60px;
+    padding-right: 120px;
+}
